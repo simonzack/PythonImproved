@@ -304,7 +304,7 @@
                         {
                             "captures": {
                                 "1": {
-                                    "name": "variable.parameter.function.language.python"
+                                    "name": "variable.language.python"
                                 },
                                 "2": {
                                     "name": "variable.parameter.function.python"
